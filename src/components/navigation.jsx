@@ -6,7 +6,7 @@ export const Navigation = (props) => {
       <div className="container">
         <div className="navbar-header">
           <a className="navbar-brand page-scroll" href="#page-top">
-              <img src="img/logo.png" alt="logo" />
+              <img src="img/logo.png" style={{height:'50%'}} alt="logo" />
           </a>
         </div>
       </div>
