@@ -939,7 +939,7 @@ background-size: cover;
 background-repeat: no-repeat;
 animation: slideshow 60s ease-in-out 4s infinite;
 transition-delay: 4s;
-transition-property: all;
+transition-property: background-image;
 }
 @keyframes slideshow {
 0%, 100% { background-image: url(../img/background.jpg); }
