@@ -1,70 +1,80 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title":"Bangkok, Thailand",
+    "subtitle": "20 - 22 October 2025",
+    "time" : "20 - 22 October 2025 | Bangkok, Thailand",
+    "paragraph": "The Conference starts in"
   },
   "About": {
+    "paragraph": "   The annual ICITEE conference is an international forum for the presentation of new research results, innovative ideas, and experiences in the broad field of advanced and synergistic technologies.",
+    "paragraph2": "   The 17<sup>th</sup> International Conference on Information Technology and Electrical Engineering (ICITEE 2025) is organized by IEEE CIS Thailand Chapter and co-organized by King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand, and Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia."
+  },
+  "DataDate": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+    "date": [
+      "20 - 22 October 2025",
+      "20 - 22 October 2025",
+      "20 - 22 October 2025",
+      "20 - 22 October 2025",
+      "1 October 2025",
+      "20 - 22 October 2025"
     ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+    "event": [
+      "Submission Deadline",
+      "Notification of Acceptance",
+      "Camera Ready Deadline",
+      "Early Registration Deadline",
+      "Regular Registration Deadline",
+      "Conference Date"
     ]
   },
-  "Gallery": [
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
-    }
-  ],
+  "Gallery": {
+    "Gallery1": [
+      {
+        "title": "Organizer",
+        "largeImage": "img/ieee-logo.png",
+        "smallImage": "img/ieee-logo.png",
+        "detail": "IEEE Thailand Section",
+        "tclass" : "img-big",
+        "sclass" : "img-res"
+      },
+      {
+        "title": "Organizer",
+        "largeImage": "img/ieee-cis-logo.png",
+        "smallImage": "img/ieee-cis-logo.png",
+        "detail": "IEEE Computational Intelligence Society (CIS) Thailand Chapter",
+        "tclass" : "img-big",
+        "sclass" : "img-res"
+      }
+    ],
+    "Gallery2": [
+      {
+        "title": "Co-Organizer",
+        "largeImage": "img/kmitl logo.png",
+        "smallImage": "img/kmitl logo.png",
+        "detail": "King Mongkut's Institute of Technology Ladkrabang (KMITL), Thailand",
+        "tclass" : "img-medium",
+        "sclass" : "img-res"
+      },
+      {
+        "title": "Co-Organizer",
+        "largeImage": "img/kmitl it logo.png",
+        "smallImage": "img/kmitl it logo.png",
+        "detail": "School of Information Technology, King Mongkut's Institute of TechnologyLadkrabang (KMITL), Thailand",
+        "tclass" : "img-medium",
+        "sclass" : "img-res"
+      }
+      ,
+      {
+        "title": "Co-Organizer",
+        "largeImage": "img/UGM logo.png",
+        "smallImage": "img/UGM logo.png",
+        "detail": "Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada (UGM), Indonesia",
+        "tclass" : "img-small",
+        "sclass" : "img-res"
+      }
+    ]
+  },
   "Services": [
     {
       "icon": "fa fa-wordpress",
