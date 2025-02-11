@@ -16,7 +16,14 @@ export const Header = (props) => {
 
   return (
     <header id="header">
-      <div className="intro slideshow">
+      <div className="slider">
+        <div className="slide"></div>
+        <div className="slide"></div>
+        <div className="slide"></div>
+        <div className="slide"></div>
+        <div className="slide"></div>
+      </div>
+      <div className="intro">
         <div className="overlay">
           <div className="container">
             <div className="row">
