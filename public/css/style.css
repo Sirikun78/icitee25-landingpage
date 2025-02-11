@@ -965,7 +965,7 @@ transition-duration: 1s;
   height: 100%;
   background-size: cover;
   background-position: center;
-  animation: slider 15s infinite;
+  animation: slider 27.5s infinite;
 }
   
 .slider .slide:nth-child(1) {
@@ -974,19 +974,19 @@ transition-duration: 1s;
 }
 .slider .slide:nth-child(2) {
   background-image: url(../img/background2.jpg);
-  animation-delay: -3s;
+  animation-delay: -5.5s;
 }
 .slider .slide:nth-child(3) {
   background-image: url(../img/background3.jpg);
-  animation-delay: -6s;
+  animation-delay: -11s;
 }
 .slider .slide:nth-child(4) {
   background-image: url(../img/background4.jpg);
-  animation-delay: -9s;
+  animation-delay: -16.5s;
 }
 .slider .slide:nth-child(5) {
   background-image: url(../img/background5.jpg);
-  animation-delay: -12s;
+  animation-delay: -22s;
 }
 @keyframes slider {
   0%, 13%, 100% {
